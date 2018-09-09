@@ -1,4 +1,4 @@
-# Let it rain !
+# ☔ Let it rain !
 
 > Raining in your terminal with supersize!
 
